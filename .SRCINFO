@@ -1,6 +1,6 @@
 pkgbase = unreal-engine-bin
 	pkgdesc = The world's most open and advanced real-time 3D creation tool
-	pkgver = 5.4.1
+	pkgver = 5.4.2
 	pkgrel = 1
 	url = https://www.unrealengine.com/
 	install = unreal-engine-bin.install
@@ -22,7 +22,7 @@ pkgbase = unreal-engine-bin
 	conflicts = unreal-engine-git
 	options = staticlibs
 	options = !strip
-	source = manual://Linux_Unreal_Engine_5.4.1.zip
+	source = manual://Linux_Unreal_Engine_5.4.2.zip
 	source = unreal-engine.desktop
 	source = unreal-engine.xml
 	source = 16.png
